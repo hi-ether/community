@@ -7,6 +7,12 @@ Hi-Ether のコミュニティ運営のためのリポジトリです。
 - <a title="Join Hi-Ether on Slack!" href="https://www.hi-ether.org/">Join Hi-Ether on Slack!</a>
 - <a title="Ethereum 開発者向けコミュニティを作ったよ - Qiita" href="https://qiita.com/amachino/items/605ff76209d7193dc92c">Ethereum 開発者向けコミュニティを作ったよ - Qiita</a>
 
+## ソーシャルメディア
+
+- Twitter のハッシュタグは `#hiether`
+  - https://twitter.com/search?f=tweets&q=%23hiether&src=typd
+- <a title="タグ「hi-ether」を検索 - はてなブックマーク" href="http://b.hatena.ne.jp/search/tag?safe=on&q=hi-ether&users=1">タグ「hi-ether」を検索 - はてなブックマーク</a>
+
 ## ミートアップ
 
 ### Hi-Ether Meetup - Block #0
