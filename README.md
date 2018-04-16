@@ -31,3 +31,6 @@ Hi-Ether のコミュニティ運営のためのリポジトリです。
 ### Hi-Ether Meetup - Block #2
 
 2018/04/13(金) 19:00〜22:00 / 会場 DMM.comラボ
+
+- <a title="Hi-Ether Meetup - Block #2レポート - アルゴリズムとかオーダーとか" href="http://y-nakajo.hatenablog.com/entry/2018/04/16/092538">Hi-Ether Meetup - Block #2レポート - アルゴリズムとかオーダーとか</a>
+- <a title="「Hi-Ether Meetup - Block #2」に参加してきました - #june29jp" href="https://june29.jp/2018/04/16/hi-ether-meetup-block-2/">「Hi-Ether Meetup - Block #2」に参加してきました - #june29jp</a>
