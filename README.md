@@ -49,3 +49,9 @@ Hi-Ether のコミュニティ運営のためのリポジトリです。
 ### Hi-Ether Meetup #5 Tokyo
 
 2018/06/12(火) 19:00〜22:00 / メルカリ
+
+### Hi-Ether Meetup #6 Tokyo
+
+2018/07/19(木) 19:00〜22:00 / SmartNews
+
+- [Hi-Ether Meetup # 6 Tokyo #HiEther](http://niwatako.hatenablog.jp/entry/2018/07/20/102608)
