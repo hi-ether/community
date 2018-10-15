@@ -40,6 +40,7 @@ Hi-Ether のコミュニティ運営のためのリポジトリです。
 
 2018/05/17(木) 19:00〜21:00 / GMO Yours
 
+- <a title="Hi-Ether Meetup #3 Tokyo – note I/O – Medium" href="https://medium.com/katsumataryo/hi-ether-meetup-3-tokyo-87712e8a4a38">Hi-Ether Meetup #3 Tokyo – note I/O – Medium</a>
 ### Hi-Ether Meetup #4 Fukuoka
 
 2018/05/27(日) 19:00〜22:00 / GMOペパボ 福岡オフィス
@@ -55,3 +56,13 @@ Hi-Ether のコミュニティ運営のためのリポジトリです。
 2018/07/19(木) 19:00〜22:00 / SmartNews
 
 - [Hi-Ether Meetup # 6 Tokyo #HiEther](http://niwatako.hatenablog.jp/entry/2018/07/20/102608)
+
+### Hi-Ether Meetup #7 Fukuoka
+
+2018/08/17(金) 19:00〜22:00 / Geek Studio
+
+- [Hi-Ether Meetup #7 Fukuoka 参加レポート - アルゴリズムとかオーダーとか](https://y-nakajo.hatenablog.com/entry/2018/08/27/000512)
+
+### Hi-Ether Meetup #8 Tokyo
+
+2018/08/29(水) 19:30〜22:00 / DMM.comラボ
